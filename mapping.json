@@ -1,0 +1,5 @@
+{
+  "fila-processamento": "https://faas-fra1-xxx.doverify.io/api/v1/web/fn-1",
+  "fila-notificacao": "https://faas-fra1-xxx.doverify.io/api/v1/web/fn-2",
+  "fila-relatorios": "https://faas-fra1-xxx.doverify.io/api/v1/web/fn-3"
+}
